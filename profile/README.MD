@@ -20,7 +20,7 @@
 
 ## 📥 APK 다운로드
 
-[releases 페이지에서 최신 APK 다운로드](https://github.com/yourusername/historyapp/releases)
+[releases 페이지에서 최신 APK 다운로드](https://balhae.tistory.com/339)
 
 ---
 
@@ -76,7 +76,7 @@ val httpClient = OkHttpClient.Builder()
 
 이 프로젝트의 개발 여정과 기술적 통찰을 담은 블로그 글을 작성했습니다:
 
-**[블로그: 우아한테크코스 경험과 코틀린으로 만든 앱](https://your-blog.com/kotlin-history-app)** ← 클릭하여 더 자세한 이야기 읽기
+**[블로그: 우아한테크코스 경험과 코틀린으로 만든 앱](https://balhae.tistory.com/339)** ← 클릭하여 더 자세한 이야기 읽기
 
 ### 🚀 최종 생각
 
