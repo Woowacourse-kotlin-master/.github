@@ -88,18 +88,23 @@ val httpClient = OkHttpClient.Builder()
 
 ## 🛠️ 기술 스택
 
-- **언어**: Kotlin 1.9
-- **최소 SDK**: Android 12 (API 31)
-- **UI**: ConstraintLayout, CardView, RecyclerView
-- **네트워킹**: Retrofit 2, OkHttp3
-- **이미지**: Picasso
-- **인증**: JWT + Kakao SDK
-- **디자인**: Material Design 3
+### 📱 Android (Client)
+- **언어**: Kotlin 1.9  
+- **최소 SDK**: Android 12 (API 31)  
+- **UI 구성**: ConstraintLayout, CardView, RecyclerView  
+- **네트워킹**: Retrofit2 + OkHttp3  
+- **이미지 처리**: Picasso  
+- **인증**: JWT + Kakao SDK  
+- **디자인 시스템**: Material Design 3  
 
 ---
 
-## 📧 연락처
+### 🖥️ Backend (Server)
+- **프레임워크**: Spring Boot + Kotlin  
+- **ORM**: Spring Data JPA (Hibernate)  
+- **DB**: MySQL  
+- **캐시/토큰 관리**: Redis  
+- **보안**: Spring Security + JWT 기반 인증  
+- **API 문서화**: Swagger (OpenAPI 3)  
+- **빌드 도구**: Gradle (KTS)
 
-문의사항이 있으시면 Issues 탭을 통해 연락주세요.
-
-**GitHub**: [yourusername/historyapp](https://github.com/yourusername/historyapp)
