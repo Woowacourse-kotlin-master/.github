@@ -1,9 +1,5 @@
 # 한국 역사 탐험 앱 (Korea History Explorer App)
 
-[![Android](https://img.shields.io/badge/Android-12%2B-brightgreen)](https://developer.android.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-purple)](https://kotlinlang.org/)
-[![Material Design 3](https://img.shields.io/badge/Material%20Design-3-blue)](https://m3.material.io/)
-
 ## 📱 프로젝트 개요
 
 한국의 문화재를 카메라로 촬영하여 AI 기반으로 인식하고, 탐험 기록을 관리하는 안드로이드 애플리케이션입니다.
